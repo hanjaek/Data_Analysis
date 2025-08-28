@@ -1,0 +1,6 @@
+도시,연도,날씨,car,high1,high2
+대전,2018,30,30,True,False
+대구,2018,20,20,False,False
+광주,2018,10,10,False,False
+서울,2017,50,50,True,True
+부산,2017,40,40,True,True
