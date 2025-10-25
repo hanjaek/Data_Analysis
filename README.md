@@ -47,5 +47,3 @@ DSAC 과정 참여 및 데이터 분석 실무 감각 향상을 목표로 정리
 - **Python (Jupyter Notebook)**  
 - pandas / numpy / matplotlib  
 - scikit-learn (회귀, 분류, 클러스터링 등)
-
-
